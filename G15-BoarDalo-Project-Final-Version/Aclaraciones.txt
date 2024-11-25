@@ -1,0 +1,29 @@
+Enlace al video de YouTube:
+
+https://youtu.be/f3IYOxQrnE8
+
+
+
+Aclaraciones para probar correctamente la práctica:
+
+1-. Usuarios registrados en el backup (Credenciales de Acceso):
+
+
+	Username: admin		Password: admin
+	Username: default-user	Password: default-user
+
+
+
+2-. Para ver las imágenes de forma correcta:
+
+-. Ejecutar una vez la aplicación desde WebRatio.
+
+-. A continuación, copiar y pegar la carpeta "upload" a la siguiente ruta:
+
+C:\WebRatio\WebRatio Platform 7.2.18.x64bit\Tomcat\webapps\G15-BoarDalo-WebRatio-Project
+
+
+-. Tras haber realizado esto, aparecerán las imágenes tras recargar la página.
+
+
+	
